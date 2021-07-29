@@ -2,6 +2,10 @@ const cacheDynamicName = "dynamic-cache-v1";
 const cacheStaticName = "static-cache";
 const appShell = [
   "/",
+  "/about-me",
+  "/contact",
+  "/projects",
+  "/resume",
   "/_next/static/chunks/173-e40fb0f5fd7e33b310ab.js	",
   "/_next/static/chunks/2b7b2d2a-cacffe8ddf7f84a0ef3f.js",
   "/_next/static/chunks/865-4a14ec0945c88df9350d.js",
@@ -11,6 +15,10 @@ const appShell = [
   "/_next/static/chunks/webpack-6aa24242c38afc8913a0.js",
   "/_next/static/chunks/pages/_app-4b9658a3c9339e2dd88c.js",
   "/_next/static/chunks/pages/index-669909621c2fccb5266c.js",
+  "/_next/static/chunks/pages/about-me-cdbb60a648cacacf2698.js",
+  "/_next/static/chunks/pages/contact-b172d2b1d1b9a442bb0d.js",
+  "/_next/static/chunks/pages/projects-453c016d2cf0219305de.js",
+  "/_next/static/chunks/pages/resume-66024960114fb8abfbd4.js",
   "/_next/static/css/9545c69ded2aa38be30f.css",
   "/_next/static/css/6fc1e446ecfd3f4b746e.css",
   "/_next/static/HDS75h-cIymF42WU7mj_9/_buildManifest.js",

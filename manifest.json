@@ -1,0 +1,29 @@
+{
+  "short_name": "Portfolio",
+  "name": "Junaid Javed Portfolio",
+  "description": "Junaid Javed portfolio website featuring his best past and recent work.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#242582",
+  "background_color": "#2f2fa2",
+  "screenshots": [
+    {
+      "src": "/assets/screenshot.png",
+      "type": "image/png",
+      "sizes": "1348x701"
+    }
+  ]
+}
